@@ -24,7 +24,7 @@ async def start(bot: Client, msg: Message):
 
 ¤¦ بايـروجـرام مـيوزك للبوتات
 
-¤¦ تم انشاء البوت بواسطة [♡ ᎷΌᎠY ♡˼](https://t.me/DEV_SAMIR)""",
+¤¦ تم انشاء البوت بواسطة [♡ ᎷΌᎠY ♡˼](https://t.me/W_9_N)""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
